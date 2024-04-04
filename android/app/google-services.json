@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357507536257",
+    "project_id": "girls-in-ctrl",
+    "storage_bucket": "girls-in-ctrl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357507536257:android:298962838d534af9fcc480",
+        "android_client_info": {
+          "package_name": "com.example.tcc_girls_in_ctrl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357507536257-tbabfjo82qa16ejnprnjta8gacetab3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApcWTP6dQ4V3ZPf5KplNRTeGLDi_XK-Y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357507536257-tbabfjo82qa16ejnprnjta8gacetab3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
